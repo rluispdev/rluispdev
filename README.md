@@ -6,7 +6,7 @@
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=rluispdev&show_icons=true&count_private=true&hide_border=true&title_color=337DFF&icon_color=337DFF&text_color=c9d1d9&bg_color=0d1117" alt="Rafael Luis Gonzaga github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rluispdev&layout=compact&hide_border=true&title_color=337DFF&text_color=337DFF&bg_color=0d1117" />
+  <img width="41%" height="195px" src="https://github-readme-stats-ovbp-dvfik7j01-rluispdevs-projects.vercel.app/api/top-langs/?username=rluispdev&layout=compact&hide_border=true&title_color=337DFF&text_color=337DFF&bg_color=0d1117" />
 </div>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=rluispdev&bg_color=000000&color=337DFF&line=F05138&point=337DFF&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
