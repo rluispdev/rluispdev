@@ -5,7 +5,7 @@
 
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=rluispdev&show_icons=true&count_private=true&hide_border=true&title_color=337DFF&icon_color=337DFF&text_color=c9d1d9&bg_color=0d1117" alt="Rafael Luis Gonzaga github stats" /> 
+  <img width="49%" height="195px" src="https://github-readme-stats-ovbp.vercel.app/api?username=rluispdev&show_icons=true&count_private=true&hide_border=true&title_color=337DFF&icon_color=337DFF&text_color=c9d1d9&bg_color=0d1117" alt="Rafael Luis Gonzaga github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats-ovbp.vercel.app/api/top-langs/?username=rluispdev&layout=compact&hide_border=true&title_color=337DFF&text_color=337DFF&bg_color=0d1117" />
 </div>
 
