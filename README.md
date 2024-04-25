@@ -14,7 +14,7 @@
 <div align="center">  
   <a href="https://www.linkedin.com/in/rluispdev/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"</a>
     <a href="https://twitter.com/rluispdev" target="_blank"><img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white"</a>
-      <a href="https://www.instagram.com/rluispdev/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
+      <a href="https://www.instagram.com/rluispdevs/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
 </div> 
     
 ### Main skills:
