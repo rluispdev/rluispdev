@@ -10,5 +10,6 @@
 <div style="margin-top: 20px;">
   <strong>LINGUAGENS : </strong> Swift, Java<br>
   <strong>FRAMEWORKS : </strong> SwiftUI, Spring Boot 3<br>
+  <strong> IA : </strong>ChatGPT, Gemini, Machine learning <br>
   <strong>IDE's : </strong> Xcode, IntelliJ
 </div>
