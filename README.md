@@ -13,3 +13,5 @@
   <strong> IA : </strong>ChatGPT, Gemini, Machine learning <br>
   <strong>IDE's : </strong> Xcode, IntelliJ
 </div>
+
+`Aviso` : Os pins  de Categorias `Swift`, `Java` e `IA`  devem ser acessados através do Computador.
